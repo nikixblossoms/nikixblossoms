@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Niki</h1>
 <h3 align="center">A passionate frontend developer from Canada</h3>
 
-![girl](https://github.com/user-attachments/assets/8a3d306b-14d7-4136-81a9-79631421960d)
-
+  
 📫 How to reach me **niki.zhang770@gmail.com**
+
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
